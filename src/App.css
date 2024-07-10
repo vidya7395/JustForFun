@@ -15,9 +15,10 @@
 
 button {
   padding: 10px 20px;
-  font-size: 16px;
+  font-size: 24px;
   margin-top: 20px;
   cursor: pointer;
+  border-radius: 5px;
 }
 
 p {
